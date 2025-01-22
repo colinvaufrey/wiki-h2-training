@@ -2,7 +2,7 @@
 title: Explication de l’exercice
 description: Explications sur la nature de l’exercice H2 Virtual Training
 published: true
-date: 2025-01-22T14:08:39.983Z
+date: 2025-01-22T14:08:54.098Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:04.507Z
@@ -31,7 +31,7 @@ L’objectif du jeu est de changer un capteur défectueux sur une voiture à hyd
 
 ## Lancement de l’exercice
 
-Nous invitons à consulter les pages d’[initiation à la VR](/fr/introduction/initiation_vr) si vous n’êtes pas encore familiers avec.
+Nous vous invitons à consulter les pages d’[initiation à la VR](/fr/introduction/initiation_vr) si vous n’êtes pas encore familiers avec.
 
 Nous invitons ensuite le joueur à lancer l’application dans le casque VR, et le guide à se retrouver sur la [page de parcours réparation](../?).
 Vous pouvez également utiliser la barre de recherche ou le menu à gauche pour trouver rapidement l’information que vous cherchez.
