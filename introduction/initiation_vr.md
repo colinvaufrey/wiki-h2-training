@@ -2,7 +2,7 @@
 title: Initiation à la VR
 description: Informations génériques sur la Réalité Virtuelle
 published: true
-date: 2025-01-22T10:22:49.296Z
+date: 2025-01-22T10:22:54.618Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:13.636Z
