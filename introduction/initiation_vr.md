@@ -1,8 +1,8 @@
 ---
-title: initiation_vr
-description: 
+title: Initiation à la VR
+description: Informations génériques sur la Réalité Virtuelle
 published: true
-date: 2025-01-22T10:14:05.733Z
+date: 2025-01-22T10:21:08.698Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:13.636Z
