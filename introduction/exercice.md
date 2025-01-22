@@ -2,7 +2,7 @@
 title: Explication de l’exercice
 description: Explications sur la nature de l’exercice
 published: true
-date: 2025-01-22T13:48:10.959Z
+date: 2025-01-22T13:49:29.895Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:04.507Z
@@ -19,6 +19,8 @@ Le joueur peut se retrouver bloqué à un moment donné. C’est là que vous in
 Comme vous n’aurez pas de retour visuel sur ce que voit le joueur, il est important de lui demander de bien décrire ce qu’il fait et voit tout du long pour pouvoir l’aider au mieux.
 
 ## Le jeu H2 Virtual Training
+
+
 
 ## Lancement
 
