@@ -2,7 +2,7 @@
 title: Le wiki H2 Virtual Training
 description: Page d’accueil du wiki
 published: true
-date: 2025-01-22T10:46:56.631Z
+date: 2025-01-22T10:47:04.294Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-14T13:13:12.584Z
