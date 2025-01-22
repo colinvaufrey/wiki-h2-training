@@ -2,13 +2,11 @@
 title: Initiation à la VR
 description: Informations génériques sur la Réalité Virtuelle
 published: true
-date: 2025-01-22T10:22:54.618Z
+date: 2025-01-22T10:36:12.961Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:13.636Z
 ---
-
-# Initiation à la VR
 
 Vous comptez vous essayer à l’exercice mais n’avez jamais pratiqué la Réalité Virtuelle ? Voici quelques informations pour vous aider à vous lancer.
 
