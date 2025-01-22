@@ -2,7 +2,7 @@
 title: Le wiki H2 Virtual Training
 description: Page d’accueil du wiki
 published: true
-date: 2025-01-22T14:02:23.621Z
+date: 2025-01-22T14:03:22.650Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-14T13:13:12.584Z
@@ -10,7 +10,7 @@ dateCreated: 2025-01-14T13:13:12.584Z
 
 Bienvenue sur le wiki H2 Virtual Training !
 
-Ce wiki sert à la fois de compagnon au jeu *H2 Virtual Training* mais également de référence pour l’exercice en cours utilisant le jeu. Il pourrait même vous servir de référence pour une répération en situation réelle car il se veut très généraliste !
+Ce wiki sert à la fois de compagnon aux mécaniciens effectuant des réparations sur voiture à hydrogène mais également de référence pour l’exercice de cours utilisant le jeu *H2 Virtual Training*.
 
 ## Accès rapide
 
