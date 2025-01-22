@@ -2,7 +2,7 @@
 title: Explication de l’exercice
 description: Explications sur la nature de l’exercice
 published: true
-date: 2025-01-22T13:49:29.895Z
+date: 2025-01-22T13:51:24.551Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:04.507Z
@@ -22,7 +22,9 @@ Comme vous n’aurez pas de retour visuel sur ce que voit le joueur, il est impo
 
 
 
-## Lancement
+## Lancement de l’exercice
 
-Nous invitons à consulter les pages d’[initiation à la VR](/fr/introduction/initiation_vr) si vous n’êtes pas encore familiers avec, puis la page d’introductionnaviguer dans le wiki en utilisant le menu de gauche, ou encore la [page de parcours réparation](../?).
-Vous pouvez également utiliser la barre de recherche pour trouver rapidement l’information que vous cherchez.
+Nous invitons à consulter les pages d’[initiation à la VR](/fr/introduction/initiation_vr) si vous n’êtes pas encore familiers avec.
+
+Nous invitons ensuite le joueur à lancer l’application dans le casque VR, et le guide à se retrouver sur la [page de parcours réparation](../?).
+Vous pouvez également utiliser la barre de recherche ou le menu à gauche pour trouver rapidement l’information que vous cherchez.
