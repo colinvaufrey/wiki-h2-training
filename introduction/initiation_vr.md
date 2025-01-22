@@ -2,7 +2,7 @@
 title: initiation_vr
 description: 
 published: true
-date: 2025-01-22T10:13:45.866Z
+date: 2025-01-22T10:14:05.733Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:13.636Z
@@ -27,14 +27,14 @@ Pour commencer, il vous faudra un casque de Réalité Virtuelle. Le modèle qui 
 
 Les manettes sont au nombre de deux. Elles nécessitent des piles pour fonctionner. Elles vous permettront d’interagir avec le monde virtuel. Pour les allumer, il vous suffit d’appuyer sur n’importe quel bouton une fois le casque allumé.
 
-![Manettes Meta Quest](../images/initiation_vr/manettes.jpg)
+![Manettes Meta Quest](../images/initiation_vr/manettes.jpg =x100)
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 2 : Une manette Meta Quest 3 et comment la tenir</div>
 
 #### Utilisation avec des lunettes
 
 Si l’utilisateur porte des lunettes, il est possible de les garder en les plaçant sous le casque. Il faut pour cela régler la distance entre les lentilles et les yeux.
 
-![Lunettes sous le casque](../images/initiation_vr/ajustement_lunettes.jpg)
+![Lunettes sous le casque](../images/initiation_vr/ajustement_lunettes.jpg =x100)
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 3 : Ajustement des lunettes sous le casque</div>
 
 ### Environnement
@@ -43,7 +43,7 @@ Pour une expérience optimale, il est recommandé de se placer dans un environne
 
 Si ce n’est pas déjà configuré, il vous faudra dessiner une zone de jeu. Pour cela, suivez les instructions affichées dans le casque.
 
-![Zone de jeu](../images/initiation_vr/zone_jeu.jpg)
+![Zone de jeu](../images/initiation_vr/zone_jeu.jpg =x100)
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 4 : Zone de jeu</div>
 
 ## Utilisation
