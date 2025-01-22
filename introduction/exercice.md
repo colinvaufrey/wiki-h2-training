@@ -2,7 +2,7 @@
 title: Explication de l’exercice
 description: Explications sur la nature de l’exercice
 published: true
-date: 2025-01-22T13:55:22.119Z
+date: 2025-01-22T13:56:08.354Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:04.507Z
@@ -20,7 +20,14 @@ Comme vous n’aurez pas de retour visuel sur ce que voit le joueur, il est impo
 
 ## Le jeu H2 Virtual Training
 
+Le jeu H2 Virtual Training est un jeu en réalité virtuelle vous met dans la peau d’un technicien de maintenance de véhicules à hydrogène. Vous devrez réaliser des opérations de maintenance sur une voiture à hydrogène. Pour cela, vous devrez suivre les instructions données par le jeu.
 
+![H2 Virtual Training](../images/h2_virtual_training/h2_virtual_training.jpg){.align-center}
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 1 : H2 Virtual Training</div>
+
+### Objectif
+
+L’objectif du jeu est de changer un capteur défectueux sur une voiture à hydrogène.
 
 ## Lancement de l’exercice
 
