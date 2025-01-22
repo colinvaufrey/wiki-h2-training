@@ -2,7 +2,7 @@
 title: Explication de l’exercice
 description: Explications sur la nature de l’exercice
 published: true
-date: 2025-01-22T13:59:46.117Z
+date: 2025-01-22T14:00:10.597Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:04.507Z
