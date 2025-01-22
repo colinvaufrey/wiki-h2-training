@@ -1,8 +1,8 @@
 ---
 title: Explication de l’exercice
-description: Explications sur la nature de l’exercice
+description: Explications sur la nature de l’exercice H2 Virtual Training
 published: true
-date: 2025-01-22T14:06:39.954Z
+date: 2025-01-22T14:07:12.768Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:04.507Z
