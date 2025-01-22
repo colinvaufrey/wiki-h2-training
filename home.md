@@ -2,7 +2,7 @@
 title: Le wiki H2 Virtual Training
 description: Page d’accueil du wiki
 published: true
-date: 2025-01-22T10:47:04.294Z
+date: 2025-01-22T14:02:08.426Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-14T13:13:12.584Z
@@ -14,5 +14,5 @@ Ce wiki sers à la fois de compagnon au jeu *H2 Virtual Training* mais égalemen
 
 ## Accès rapide
 
-[→ Je suis sur le point de m’essayer à l’exercice de cours *H2 Virtual Training*]()
-[→ J’effectue une réparation et souhaites des informations sur la démarche]()
+[→ Je suis sur le point de m’essayer à l’exercice de cours *H2 Virtual Training*](/fr/introduction/exercice)
+[→ J’effectue une réparation et souhaites des informations sur la démarche](/fr/
