@@ -1,3 +1,13 @@
+---
+title: Le jeu H2 Virtual Training
+description: Informations sur le jeu H2 Virtual Training
+published: true
+date: 2025-01-22T10:35:31.298Z
+tags: 
+editor: markdown
+dateCreated: 2025-01-22T10:08:10.026Z
+---
+
 # Le jeu H2 Virtual Training
 
 ## Introduction
