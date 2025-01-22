@@ -2,7 +2,7 @@
 title: Initiation à la VR
 description: Informations génériques sur la Réalité Virtuelle
 published: true
-date: 2025-01-22T10:21:08.698Z
+date: 2025-01-22T10:22:07.468Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:13.636Z
@@ -20,7 +20,7 @@ Vous comptez vous essayer à l’exercice mais n’avez jamais pratiqué la Réa
 
 Pour commencer, il vous faudra un casque de Réalité Virtuelle. Le modèle qui vous a probablement été fourni est un casque de la famille _Meta Quest_, qui a la particularité de fonctionner en _standalone_, c’est-à-dire sans nécessiter d’ordinateur pour fonctionner. Il vous suffit donc de le charger et de l’allumer s’il ne l’est pas déjà. C’est au travers de ce casque que vous pourrez voir le monde virtuel.
 
-![Casque Meta Quest](../images/initiation_vr/casque.jpg =x100)
+![Casque Meta Quest](../images/initiation_vr/casque.jpg =x100){.align-center} 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 1 : Casque Meta Quest 3</div>
 
 #### Manettes
