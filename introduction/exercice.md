@@ -2,7 +2,7 @@
 title: Explication de l’exercice
 description: Explications sur la nature de l’exercice H2 Virtual Training
 published: true
-date: 2025-01-22T14:07:12.768Z
+date: 2025-01-22T14:08:39.983Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:04.507Z
@@ -14,9 +14,9 @@ Cet exercice se réalise avec deux participants. L’un est le **joueur**, immer
 
 ## Rôle du guide
 
-Le joueur peut se retrouver bloqué à un moment donné. C’est là que vous intervenez. Vous devez l’aider à comprendre ce qu’il doit faire pour avancer dans le jeu. Pour cela, vous pouvez consulter les différentes étapes de l’exercice et les explications associées.
+Le **joueur** peut se retrouver bloqué à un moment donné. C’est là que le **guide** intervient. Il devra l’aider à comprendre ce qu’il doit faire pour avancer dans le jeu. Pour cela, il peut consulter les différentes étapes de l’exercice et les explications associées.
 
-Comme vous n’aurez pas de retour visuel sur ce que voit le joueur, il est important de lui demander de bien décrire ce qu’il fait et voit tout du long pour pouvoir l’aider au mieux.
+Comme il n’aura pas de retour visuel sur ce que voit le **joueur**, il est important de lui demander de bien décrire ce qu’il fait et voit tout du long pour pouvoir l’aider au mieux.
 
 ## Le jeu H2 Virtual Training
 
