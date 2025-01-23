@@ -2,7 +2,7 @@
 title: Initiation à la VR
 description: Informations génériques sur la Réalité Virtuelle
 published: true
-date: 2025-01-22T14:10:09.576Z
+date: 2025-01-23T09:32:37.667Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-22T10:08:13.636Z
@@ -49,3 +49,7 @@ Si ce n’est pas déjà configuré, il vous faudra dessiner une zone de jeu. Po
 ### Contrôles
 
 Pour cliquer sur un élément d’interface comme un bouton, pointez-le avec l’une de vos manettes et appuyez sur la gâchette au niveau de votre index.
+
+---
+
+Vous pouvez retourner sur [l’explication de l’exercice](/fr/introduction/exercice).
