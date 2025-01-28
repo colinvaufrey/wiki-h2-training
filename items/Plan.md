@@ -2,15 +2,19 @@
 title: Plan du garage
 description: DESCRIPTION plan garage
 published: true
-date: 2025-01-28T16:27:19.145Z
+date: 2025-01-28T16:32:12.104Z
 tags: plan
 editor: markdown
 dateCreated: 2025-01-26T05:43:45.928Z
 ---
 
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+
+
+
 # PLAN
-
-
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <!-- Iframe container with better styling -->
   <div class="sketchfab-embed-wrapper" style="width: 80%; max-width: 1200px; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
@@ -156,3 +160,5 @@ Tous les outils présentés ici sont sur/à côté de la servante bleu
 </section>
 
 
+</div>
+</div>
