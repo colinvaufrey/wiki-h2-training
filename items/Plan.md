@@ -2,11 +2,10 @@
 title: Plan du garage
 description: DESCRIPTION plan garage
 published: true
-date: 2025-01-14T14:19:57.202Z
+date: 2025-01-28T16:12:50.387Z
 tags: plan
 editor: markdown
-dateCreated: 2025-01-14T14:18:12.691Z
-
+dateCreated: 2025-01-26T05:43:45.928Z
 ---
 
 # PLAN
@@ -129,16 +128,14 @@ dateCreated: 2025-01-14T14:18:12.691Z
   <h3>10 - Servante bleue</h3>
   <ul>
     <li>Purge</li>
-         <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
       <!-- Description à gauche -->
       <p style="flex: 1; margin-right: 20px;">
-        Une purge est un procédé qui consiste à éliminer un fluide (gaz ou liquide) d'un circuit ou d'un équipement, généralement pour en assurer la maintenance ou éviter des risques.
+        Une purge est un procédé qui consiste à éliminer un fluide (gaz ou liquide) d'un circuit ou d'un équipement, 
+        généralement pour en assurer la maintenance ou éviter des risques.
       </p>
       <!-- Image à droite -->
-      <img 
-        src="C:\Users\gheff\Desktop\wiki\wiki-h2-training\images\outils\purge.png" 
-        alt="Outil de purge" 
-        style="max-width: 300px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <img src="/purge.png" alt="Purge" style="max-width: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </div>
     <li>Mise à la terre</li>
     <li>Sniffeur</li>
@@ -147,4 +144,5 @@ dateCreated: 2025-01-14T14:18:12.691Z
     <li>Manomètre</li>
   </ul>
 </section>
+
 
