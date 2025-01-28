@@ -31,101 +31,109 @@ dateCreated: 2025-01-14T14:18:12.691Z
     </iframe>
   </div>
 
-## Matériels et Équipement
+  <!-- Numbered sections navigation -->
+  <div style="width: 80%; max-width: 1200px;">
+    <h2>Matériels et Équipement</h2>
+    <ul style="list-style: none; padding: 0;">
+      <li><a href="#capot-avant" style="text-decoration: none; color: #007BFF;">1 - Capot avant</a></li>
+      <li><a href="#portiere-conducteur" style="text-decoration: none; color: #007BFF;">2 - Portière conducteur</a></li>
+      <li><a href="#poutre-elevation" style="text-decoration: none; color: #007BFF;">3 - Poutre d'élévation</a></li>
+      <li><a href="#plateau-outils" style="text-decoration: none; color: #007BFF;">4 - Plateau d'outils</a></li>
+      <li><a href="#etagere-equipement" style="text-decoration: none; color: #007BFF;">5 - Étagère d'équipement</a></li>
+      <li><a href="#table" style="text-decoration: none; color: #007BFF;">6 - Table</a></li>
+      <li><a href="#mini-etagere" style="text-decoration: none; color: #007BFF;">7 - Mini étagère</a></li>
+      <li><a href="#servante-verte" style="text-decoration: none; color: #007BFF;">8 - Servante verte</a></li>
+      <li><a href="#servante-rouge" style="text-decoration: none; color: #007BFF;">9 - Servante rouge</a></li>
+      <li><a href="#servante-bleu" style="text-decoration: none; color: #007BFF;">10 - Servante bleue</a></li>
+    </ul>
+  </div>
+</div>
 
-- [PLAN](#plan)
-  - [Matériels et Équipement](#matériels-et-équipement)
-  - [Sections détaillées](#sections-détaillées)
-    - [1 - Capot avant](#1---capot-avant)
-      - [Outils](#outils)
-    - [2 - Portière conducteur](#2---portière-conducteur)
-    - [3 - Poutre d'élévation](#3---poutre-délévation)
-    - [4 - Plateau d'outils](#4---plateau-doutils)
-    - [5 - Étagère d'équipement](#5---étagère-déquipement)
-    - [6 - Table](#6---table)
-    - [7 - Mini étagère](#7---mini-étagère)
-    - [8 - Servante verte](#8---servante-verte)
-    - [9 - Servante rouge](#9---servante-rouge)
-    - [10 - Servante bleue](#10---servante-bleue)
+<!-- Sections with clear anchors for easy navigation -->
+<section id="capot-avant">
+  <h3>1 - Capot avant</h3>
+  <p>Lorsque vous ouvrez le capot avant ...</p>
+   <ul>
+    <li>Batterie H2</li>
+    </ul>
+  <p>Faire un test VAT</p>
+</section>
 
----
+<section id="portiere-conducteur">
+  <h3>2 - Portière conducteur</h3>
+  <ul>
+    <li>Bouton Start</li>
+    </ul>
+</section>
 
-## Sections détaillées
+<section id="poutre-elevation">
+  <h3>3 - Poutre d'élévation</h3>
+  <ul>
+    <li>Bouton monter/déscendre</li>
+    </ul>
+</section>
 
-### 1 - Capot avant
+<section id="plateau-outils">
+  <h3>4 - Plateau d'outils</h3>
+  <ul>
+    <li>Tournevis</li>
+    <li>Multimètre</li>
+    <li>Testeur de tension</li>
+  </ul>
+</section>
 
-Lorem ipsum dolor sit amet.
+<section id="etagere-equipement">
+  <h3>5 - Étagère d'équipement</h3>
+  <ul>
+    <li>Combinaison ATEX</li>
+    <li>Chaussure ATEX</li>
+    <li>Gants isolants</li>
+    <li>Surgants</li>
+    <li>EPI</li>
+    <li>Panneau de config hydrogène</li>
+    <li>Panneau de config électrique</li>
+    <li>Cadenas</li>
+  </ul>
+</section>
 
-#### Outils
-- Lorem ipsum
+<section id="table">
+  <h3>6 - Table</h3>
+  <ul>
+    <li>Panneau de signalétique</li>
+    <li>Panneau Véhicule condamné</li>
+  </ul>
+</section>
 
----
+<section id="mini-etagere">
+  <h3>7 - Mini étagère</h3>
+  <ul>
+    <li>Chaîne de délimitation</li>
+    <li>Panneau de signalisation ATEX</li>
+  </ul>
+</section>
 
-### 2 - Portière conducteur
+<section id="servante-verte">
+  <h3>8 - Servante verte</h3>
+  <p>Balise de diagnostic</p>
+</section>
 
-- Bouton Start
+<section id="servante-rouge">
+  <h3>9 - Servante rouge</h3>
+  <ul>
+    <li>Testeur de tension</li>
+    <li>Tournevis</li>
+  </ul>
+</section>
 
----
+<section id="servante-bleu">
+  <h3>10 - Servante bleue</h3>
+  <ul>
+    <li>Purge</li>
+    <li>Mise à la terre</li>
+    <li>Sniffeur</li>
+    <li>Capteur basse pression</li>
+    <li>Vanne de purge</li>
+    <li>Manomètre</li>
+  </ul>
+</section>
 
-### 3 - Poutre d'élévation
-
-- Bouton monter/descendre
-
----
-
-### 4 - Plateau d'outils
-
-- Tournevis
-- Multimètre
-- Testeur de tension
-
----
-
-### 5 - Étagère d'équipement
-
-- Combinaison ATEX
-- Chaussure ATEX
-- Gants isolants
-- Surgants
-- EPI
-- Panneau de config hydrogène
-- Panneau de config électrique
-- Cadenas
-
----
-
-### 6 - Table
-
-- Panneau de signalétique
-- Panneau Véhicule condamné
-
----
-
-### 7 - Mini étagère
-
-- Chaîne de délimitation
-- Panneau de signalisation ATEX
-
----
-
-### 8 - Servante verte
-
-- Balise de diagnostic
-
----
-
-### 9 - Servante rouge
-
-- Testeur de tension
-- Tournevis
-
----
-
-### 10 - Servante bleue
-
-- Purge
-- Mise à la terre
-- Sniffeur
-- Capteur basse pression
-- Vanne de purge
-- Manomètre
