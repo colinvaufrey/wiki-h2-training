@@ -8,6 +8,9 @@ editor: markdown
 dateCreated: 2025-01-14T14:18:12.691Z
 
 ---
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+
 
 # PLAN
 
@@ -51,7 +54,7 @@ dateCreated: 2025-01-14T14:18:12.691Z
 
 <!-- Sections with clear anchors for easy navigation -->
 <section id="capot-avant">
-  <h3>1 - Capot avant</h3>
+  <h3 style="color: #007BFF;">1 - Capot avant</h3>
   <p>Lorsque vous ouvrez le capot avant ...</p>
    <ul>
     <li>Batterie H2</li>
@@ -60,21 +63,21 @@ dateCreated: 2025-01-14T14:18:12.691Z
 </section>
 
 <section id="portiere-conducteur">
-  <h3>2 - Portière conducteur</h3>
+  <h3 style="color: #007BFF;">2 - Portière conducteur</h3>
   <ul>
     <li>Bouton Start</li>
     </ul>
 </section>
 
 <section id="poutre-elevation">
-  <h3>3 - Poutre d'élévation</h3>
+  <h3 style="color: #007BFF;">3 - Poutre d'élévation</h3>
   <ul>
     <li>Bouton monter/déscendre</li>
     </ul>
 </section>
 
 <section id="plateau-outils">
-  <h3>4 - Plateau d'outils</h3>
+  <h3 style="color: #007BFF;">4 - Plateau d'outils</h3>
   <ul>
     <li>Tournevis</li>
     <li>Multimètre</li>
@@ -83,7 +86,7 @@ dateCreated: 2025-01-14T14:18:12.691Z
 </section>
 
 <section id="etagere-equipement">
-  <h3>5 - Étagère d'équipement</h3>
+  <h3 style="color: #007BFF;">5 - Étagère d'équipement</h3>
   <ul>
     <li>Combinaison ATEX</li>
     <li>Chaussure ATEX</li>
@@ -97,7 +100,7 @@ dateCreated: 2025-01-14T14:18:12.691Z
 </section>
 
 <section id="table">
-  <h3>6 - Table</h3>
+  <h3 style="color: #007BFF;">6 - Table</h3>
   <ul>
     <li>Panneau de signalétique</li>
     <li>Panneau Véhicule condamné</li>
@@ -105,7 +108,7 @@ dateCreated: 2025-01-14T14:18:12.691Z
 </section>
 
 <section id="mini-etagere">
-  <h3>7 - Mini étagère</h3>
+  <h3 style="color: #007BFF;">7 - Mini étagère</h3>
   <ul>
     <li>Chaîne de délimitation</li>
     <li>Panneau de signalisation ATEX</li>
@@ -113,12 +116,12 @@ dateCreated: 2025-01-14T14:18:12.691Z
 </section>
 
 <section id="servante-verte">
-  <h3>8 - Servante verte</h3>
+  <h3 style="color: #007BFF;">8 - Servante verte</h3>
   <p>Balise de diagnostic</p>
 </section>
 
 <section id="servante-rouge">
-  <h3>9 - Servante rouge</h3>
+  <h3 style="color: #007BFF;">9 - Servante rouge</h3>
   <ul>
     <li>Testeur de tension</li>
     <li>Tournevis</li>
@@ -126,20 +129,28 @@ dateCreated: 2025-01-14T14:18:12.691Z
 </section>
 
 <section id="servante-bleu">
-  <h3>10 - Servante bleue</h3>
+  <h3 style="color: #007BFF;">10 - Servante bleue</h3>
+  <div>
+  <p>
+Tous les outils présentés ici sont sur/à côté de la servante bleu
+    </p>
+  </div>
   <ul>
     <li>Purge</li>
-         <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
-      <!-- Description à gauche -->
-      <p style="flex: 1; margin-right: 20px;">
-        Une purge est un procédé qui consiste à éliminer un fluide (gaz ou liquide) d'un circuit ou d'un équipement, généralement pour en assurer la maintenance ou éviter des risques.
+    <div>
+      <p>
+        Une purge est un procédé qui consiste à éliminer un fluide (gaz ou liquide) d'un circuit ou d'un équipement, 
+        généralement pour en assurer la maintenance ou éviter des risques.
       </p>
-      <!-- Image à droite -->
-      <img 
-        src="C:\Users\gheff\Desktop\wiki\wiki-h2-training\images\outils\purge.png" 
-        alt="Outil de purge" 
-        style="max-width: 300px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    </div>
+      </div>
+    <div>
+      <img src="/purge.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>   
+    <div>
+  	<p style="margin-bottom: 20px">
+    A activer en cliquant dessus  
+    </p>
+  </div>
     <li>Mise à la terre</li>
     <li>Sniffeur</li>
     <li>Capteur basse pression</li>
@@ -147,4 +158,6 @@ dateCreated: 2025-01-14T14:18:12.691Z
     <li>Manomètre</li>
   </ul>
 </section>
+</div>
+</div>
 
