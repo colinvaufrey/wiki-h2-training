@@ -124,7 +124,7 @@ dateCreated: 2025-01-14T14:18:12.691Z
 </section>
 
 <section id="servante-bleu">
-  <h3>10 - Servante bleue</h3>
+  <h3 style="color: #007BFF;">10 - Servante bleue</h3>
   <ul>
     <li>Purge</li>
     <div>
@@ -134,7 +134,7 @@ dateCreated: 2025-01-14T14:18:12.691Z
       </p>
       </div>
     <div>
-      <img src="/purge.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <img src="/images/outils/purge.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </div>   
     <div>
   	<p style="margin-bottom: 20px">
@@ -142,7 +142,33 @@ dateCreated: 2025-01-14T14:18:12.691Z
     </p>
   </div>
     <li>Mise à la terre</li>
-    <li>Sniffeur</li>
+    <div>
+      <p>
+      La mise à la terre du châssis est une connexion sur l’alimentation électrique permettant de relier un boîtier métallique au système de conducteurs de protection ou à la terre de la machine.
+      </p>
+      </div>
+    <div>
+      <img src="/images/outils/mise_a_terre.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>   
+    <div>
+  	<p style="margin-bottom: 20px">
+    A activer en cliquant dessus  
+    </p>
+  </div>
+    <li>Sniffer</li>
+    <div>
+      <p>
+      Appareil utilisé pour détecter des gaz ou des substances volatiles dans un véhicule, généralement pour des raisons de diagnostic ou de sécurité.
+      </p>
+      </div>
+    <div>
+      <img src="/images/outils/sniffer.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>   
+    <div>
+  	<p style="margin-bottom: 20px">
+    A activer l'attrapant sur une main.
+    </p>
+  </div>
     <li>Capteur basse pression</li>
     <li>Vanne de purge</li>
     <li>Manomètre</li>
