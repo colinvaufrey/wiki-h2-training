@@ -2,7 +2,7 @@
 title: Plan du garage
 description: DESCRIPTION plan garage
 published: true
-date: 2025-01-28T16:12:50.387Z
+date: 2025-01-28T16:27:19.145Z
 tags: plan
 editor: markdown
 dateCreated: 2025-01-26T05:43:45.928Z
@@ -126,17 +126,27 @@ dateCreated: 2025-01-26T05:43:45.928Z
 
 <section id="servante-bleu">
   <h3>10 - Servante bleue</h3>
+  <div>
+  <p>
+Tous les outils présentés ici sont sur/à côté de la servante bleu
+    </p>
+  </div>
   <ul>
     <li>Purge</li>
-    <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
-      <!-- Description à gauche -->
-      <p style="flex: 1; margin-right: 20px;">
+    <div>
+      <p>
         Une purge est un procédé qui consiste à éliminer un fluide (gaz ou liquide) d'un circuit ou d'un équipement, 
         généralement pour en assurer la maintenance ou éviter des risques.
       </p>
-      <!-- Image à droite -->
-      <img src="/purge.png" alt="Purge" style="max-width: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    </div>
+      </div>
+    <div>
+      <img src="/purge.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>   
+    <div>
+  	<p style="margin-bottom: 20px">
+    A activer en cliquant dessus  
+    </p>
+  </div>
     <li>Mise à la terre</li>
     <li>Sniffeur</li>
     <li>Capteur basse pression</li>
