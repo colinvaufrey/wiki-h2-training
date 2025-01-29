@@ -87,6 +87,19 @@ dateCreated: 2025-01-14T14:18:12.691Z
   <h3 style="color: #007BFF;">2 - Portière conducteur</h3>
   <ul>
     <li>Bouton Start</li>
+    <div>
+      <p>
+      Tout action mettre ou couper le contact / déplacer le véhicule, doit se faire sur le bouton START à l’intérieur du véhicule.
+      </p>
+      </div>
+    <div>
+      <img src="/images/outils/btn_start.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>   
+    <div>
+  	<p style="margin-bottom: 20px">
+    <em>A activer en cliquant dessus et en sélectionnant votre option</em>
+    </p>
+  </div>
     </ul>
 </section>
 
@@ -162,10 +175,63 @@ dateCreated: 2025-01-14T14:18:12.691Z
   <h3 style="color: #007BFF;">5 - Étagère d'équipement</h3>
   <ul>
     <li>Combinaison ATEX</li>
+     <div>
+      <p>
+    Les vêtements de travail ATEX vous apportent toute la protection nécessaire pour évoluer dans un environnement de travail ATEX (ATmosphère EXplosive). Les vêtements de travail adaptés aux zones ATEX sont destinés aux environnements exposés à la chaleur et aux risques d'explosion.
+      </p>
+      </div>
+    <div>
+      <img src="/images/outils/combi.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>   
+    <div>
+  	<p style="margin-bottom: 20px">
+    <em>A activer en cliquant dessus</em>
+    </p>
+  </div>
     <li>Chaussure ATEX</li>
+     <div>
+      <p>
+    Les chaussures de sécurité pour zone Atex sont des équipements de protection individuelle (EPI) conçus pour protéger les travailleurs exposés aux risques d'explosion.
+      </p>
+      </div>
+    <div>
+      <img src="/images/outils/chaussure.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>   
+    <div>
+  	<p style="margin-bottom: 20px">
+    <em>A activer en cliquant dessus</em>
+    </p>
+  </div>
     <li>Gants isolants</li>
+     <div>
+      <p>
+    Domaine des gants en matériau isolant pour les travaux sous tension (EN 60903). Egalement appelé "résistance transversale". Cette norme traite des exigences de propriété électrostatique des gants en ATEX.
+      </p>
+      </div>
+    <div>
+      <img src="/images/outils/isolantVR.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>   
+    <div>
+  	<p style="margin-bottom: 20px">
+    <em>A activer en cliquant dessus</em>
+    </p>
+  </div>
     <li>Surgants</li>
+     <div>
+      <p>
+    A enfiler au dessus des gants isolants
+      </p>
+      </div>
+    <div>
+      <img src="/images/outils/surgantVR.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>   
+    <div>
+  	<p style="margin-bottom: 20px">
+    <em>A activer en cliquant dessus</em>
+    </p>
+  </div>
     <li>EPI</li>
+    <li>Casque de sécurité</li>
     <li>Panneau de config hydrogène</li>
     <li>Panneau de config électrique</li>
     <li>Cadenas</li>
@@ -176,7 +242,33 @@ dateCreated: 2025-01-14T14:18:12.691Z
   <h3 style="color: #007BFF;">6 - Table</h3>
   <ul>
     <li>Panneau de signalétique</li>
+    <div>
+      <p>
+    Poser le panneau devant le connecteur.
+      </p>
+      </div>
+    <div>
+      <img src="/images/outils/signaletique.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>
+    <div>
+  	<p style="margin-bottom: 20px">
+    <em>A activer en cliquant dessus</em>
+    </p>
+  </div>
     <li>Panneau Véhicule condamné</li>
+    <div>
+      <p>
+    Utilse pour le test VAT, cet instrument de mesure est rapide, précis et sûr à utiliser, il permet de mesurer le courant directement à la base du fusible et de mesurer des tensions.
+      </p>
+      </div>
+    <div>
+      <img src="/images/outils/condamnation.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>   
+    <div>
+  	<p style="margin-bottom: 20px">
+    <em>A activer en cliquant dessus</em>
+    </p>
+  </div>
   </ul>
 </section>
 
@@ -184,7 +276,33 @@ dateCreated: 2025-01-14T14:18:12.691Z
   <h3 style="color: #007BFF;">7 - Mini étagère</h3>
   <ul>
     <li>Chaîne de délimitation</li>
+    <div>
+      <p>
+    Utilsez la chaîne de délimitation pour marquer la zone ATEX.
+      </p>
+      </div>
+    <div>
+      <img src="/images/outils/chaine.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>   
+    <div>
+  	<p style="margin-bottom: 20px">
+    <em>A activer en cliquant dessus</em>
+    </p>
+  </div>
     <li>Panneau de signalisation ATEX</li>
+    <div>
+      <p>
+    Utilsez panneau de signalisation pour marquer la zone ATEX.
+      </p>
+      </div>
+    <div>
+      <img src="/images/outils/pancarte_atex.png" alt="Purge" style="max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>   
+    <div>
+  	<p style="margin-bottom: 20px">
+    <em>A activer en cliquant dessus</em>
+    </p>
+  </div>
   </ul>
 </section>
 
