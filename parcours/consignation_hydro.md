@@ -8,31 +8,6 @@ editor: markdown
 dateCreated: 2025-01-22T10:08:13.636Z
 ---
 
-## Préparer la consignation électrique
-
-### Poser le panneau de consignation électrique
-
-### Couper le contact
-
-### Mettre la clé du véhicule en sécurité
-
-### Retirer la masse
-### Déposer le cache de protection
-### Mettre hors circuit la batterie de traction
-### Equiper les gants isolants
-### Equiper les surgants
-### Retirer le sectionneur/connecteur de service
-### Mettre un cadenas sur le sectionneur
-### Poser la signalétique devant le connecteur du sectionneur
-### Ranger le sectionneur cadenassé
-### Faire autotest (vérification du VAT)
-### Vérifier l’absence de tension entre les bornes du connecteur de puissance
-### Refaire autotest
-### Poser le panneau « Véhicule condamné » sur le véhicule
-
-
-
-
 Marquer clairement la zone de travail avec ce panneau de sécurité pour indiquer qu'une intervention est en cours.
 
 ![Pancarte Consignation électrique](../images//image.png =x250){.align-center} 
