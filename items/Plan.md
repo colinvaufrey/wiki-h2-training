@@ -50,7 +50,7 @@ dateCreated: 2025-01-14T14:18:12.691Z
 <!-- Sections with clear anchors for easy navigation -->
 <section id="sous-voiture">
   <h3 style="color: #007BFF;">1 - Sous la voiture</h3>
-  <p>Lorsque vous ouvrez le capot avant ...</p>
+  <p>Lorsque le véhicule est surélevé, vous aurez accès à un plateau contenant 2 outils nécessaire aux opérations</p>
    <ul>
     <li>Capteur basse pression</li>
     <div>
