@@ -30,10 +30,10 @@
 
 ### 7.4 Poser la signalétique de consignation  
 
-## [8. Effectuer la consignation hydrogène](parcours/consignation_hydro.md)
-### [8.1 Préparer et signaliser](parcours/consignation_hydro.md#préparer-la-consignation-hydrogène)  
-### [8.2 Dépressuriser le système](parcours/consignation_hydro.md#dépressuriser)  
-### [8.3 Vérifier l'absence d'hydrogène](parcours/consignation_hydro.md#vérifier-quil-ne-reste-pas-dhydrogène)  
+## [8. Effectuer la consignation hydrogène](consignation_hydro)
+### [8.1 Préparer et signaliser](consignation_hydro#préparer-la-consignation-hydrogène)  
+### [8.2 Dépressuriser le système](consignation_hydro#dépressuriser)  
+### [8.3 Vérifier l'absence d'hydrogène](consignation_hydro#vérifier-quil-ne-reste-pas-dhydrogène)  
 
 ## 9. Effectuer la réparation
 - Remplacer le capteur de pression défectueux  
