@@ -1,4 +1,13 @@
-# Effectuer la  consignation hydrogène 
+---
+title: Consignation hydrogène
+description: Préparation de la consignation hydrogène
+published: true
+date: 2025-01-23T09:32:37.667Z
+tags: 
+editor: markdown
+dateCreated: 2025-01-22T10:08:13.636Z
+---
+
 ## Préparer la consignation hydrogène
 
 ### Signaliser
