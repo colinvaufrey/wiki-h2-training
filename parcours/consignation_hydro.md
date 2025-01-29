@@ -5,7 +5,7 @@
 
 Marquer clairement la zone de travail avec ce panneau de sécurité pour indiquer qu'une intervention est en cours.
 
-![Pancarte Consignation électrique](../images/consignation_hydro/image.png){.align-center} 
+![Pancarte Consignation électrique](../images//image.png =x250){.align-center} 
 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 1 : Pancarte "Consignation électrique"</div>
 
@@ -17,7 +17,7 @@ En tant qu'opérateur, vous devez porter les équipements de protection individu
 
 Mettez des gants APEX pour une protection contre les risques chimiques et thermiques.
 
-![Gant APEX](../images/consignation_hydro/image-1.png){.align-center} 
+![Gant APEX](../images/consignation_hydro/image-1.png =x250){.align-center} 
 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 2 : Gants APE</div>
 
@@ -25,7 +25,7 @@ Mettez des gants APEX pour une protection contre les risques chimiques et thermi
 
 Protègez-vouus le visage contre les projections et les éventuelles émissions de gaz avec la visière de sécurité.
 
-![Visière de sécurité](../images/consignation_hydro/image-2.png){.align-center} 
+![Visière de sécurité](../images/consignation_hydro/image-2.png =x250){.align-center} 
 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 3 : Visière de sécurité</div>
 
@@ -35,7 +35,7 @@ Protègez-vouus le visage contre les projections et les éventuelles émissions 
 
 Connecter une mise à la terre pour éviter toute accumulation de charge électrostatique.
 
-![Mise à terre](../images/consignation_hydro/image-4.png){.align-center} 
+![Mise à terre](../images/consignation_hydro/image-4.png =x250){.align-center} 
 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 4 : Cable Mise à terre</div>
 
@@ -44,7 +44,7 @@ Connecter une mise à la terre pour éviter toute accumulation de charge électr
 
 Vous devez vous assurez que l'outil de purge est également mis à la terre pour éviter toute étincelle.
 
-![Outils de purge à la terre](../images/consignation_hydro/image-3.png){.align-center} 
+![Outils de purge à la terre](../images/consignation_hydro/image-3.png =x250){.align-center} 
 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 5 : Outils de purge à la terre</div>
 
@@ -52,7 +52,7 @@ Vous devez vous assurez que l'outil de purge est également mis à la terre pour
 
 Fixez correctement le câble de purge pour évacuer l'hydrogène en toute sécurtié
 
-![Cabledepurge](../images/consignation_hydro/image-6.png){.align-center} 
+![Cabledepurge](../images/consignation_hydro/image-6.png =x250){.align-center} 
 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 6 : Visière de sécurité</div>
 
@@ -61,7 +61,7 @@ Fixez correctement le câble de purge pour évacuer l'hydrogène en toute sécur
 
 Assurez-vous que l'outil de purge est bien sous pression et que le flexible est correctement connecté et fonctionnel.
 
-![Vanne de purge](../images/consignation_hydro/image-7.png){.align-center} 
+![Vanne de purge](../images/consignation_hydro/image-7.png =x250){.align-center} 
 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 7 : Vanne de purge
 </div>
@@ -70,7 +70,7 @@ Assurez-vous que l'outil de purge est bien sous pression et que le flexible est 
 
 Surveiller la pression pour confirmer que l'hydrogène est bien purgé.
 
-![Manomètre](../images/consignation_hydro/image-8.png){.align-center} 
+![Manomètre](../images/consignation_hydro/image-8.png =x250){.align-center} 
 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 8 : Manomètre</div>
 
@@ -78,7 +78,7 @@ Surveiller la pression pour confirmer que l'hydrogène est bien purgé.
 
 Une fois la purge complète, déconnecter prudemment l'outil de purge.
 
-![Cable de purge](../images/consignation_hydro/image-10.png){.align-center} 
+![Cable de purge](../images/consignation_hydro/image-10.png =x250){.align-center} 
 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 9 : Cable de Purge</div>
 
@@ -86,7 +86,7 @@ Une fois la purge complète, déconnecter prudemment l'outil de purge.
 
 Posez une pancarte signalant que le véhicule est condamné et qu'aucune intervention non autorisée ne doit avoir lieu.
 
-![Panneau "Véhicule condamné"](../images/consignation_hydro/image-11.png){.align-center} 
+![Panneau "Véhicule condamné"](../images/consignation_hydro/image-11.png =x250){.align-center} 
 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 10 : Panneau "Véhicule condamné"</div>
 
@@ -94,6 +94,6 @@ Posez une pancarte signalant que le véhicule est condamné et qu'aucune interve
 
 Utilisez un détecteur de gaz pour confirmer l'absence totale d'hydrogène résidue
 
-![Sniffeur](../images/consignation_hydro/image-9.png){.align-center} 
+![Sniffeur](../images/consignation_hydro/image-9.png =x250){.align-center} 
 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 11 : Sniffeur</div>
