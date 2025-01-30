@@ -3,13 +3,10 @@ title: Matériels et équipements
 description: Outils et équipements pour la consignation hydrogène et électrique en zone ATEX.  
 published: true  
 date: 2025-01-30T03:39:00.184Z  
-tags: ATEX, sécurité, hydrogène, électricité, EPI, outillage, consignation  
+tags: ATEX, sécurité, hydrogène, electrique, EPI, outillage, consignation, capteur basse pression, cle dynamometrique, multimetre, testeur de tension, gant, surgant, casque, terre, valise diagnostic, sniffer, manometre, cas pratique, definition, bon a savoir 
 editor: markdown  
 dateCreated: 2025-01-29T09:41:41.186Z  
 ---
-
-
-# Matériels et équipement
 
 Les outils nécessaires pour une consignation hydrogène et électrique en zone ATEX.
 

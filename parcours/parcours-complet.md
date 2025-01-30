@@ -3,7 +3,7 @@ title: Parcours complet
 description: Sommaire 
 published: true
 date: 2025-01-23T09:32:37.667Z
-tags: 
+tags: parcours
 editor: markdown
 dateCreated: 2025-01-22T10:08:13.636Z
 ---
