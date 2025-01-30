@@ -2,7 +2,7 @@
 title: liste-objet
 description: 
 published: true
-date: 2025-01-30T00:31:11.317Z
+date: 2025-01-30T00:36:47.653Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-29T09:41:41.186Z
@@ -14,17 +14,19 @@ dateCreated: 2025-01-29T09:41:41.186Z
 
 Les outils nécessaires pour une consignation hydrogène et électrique en zone ATEX.
 
-#### Capteur basse pression
+## Capteur basse pression
 
 ##### Définition
 
 Un capteur basse pression est un dispositif permettant de mesurer avec précision la pression des gaz ou liquides dans un système sous contrainte. Il est essentiel pour surveiller les variations de pression dans les réseaux hydrogène et garantir un fonctionnement sûr des installations.
 
-{.align-center}
+![capteur_bp.jpg](/images/matos/capteur/capteur_bp.jpg){.align-center}
 
 ##### Cas pratique
 
 Dans une installation de distribution d'hydrogène, le capteur basse pression est utilisé pour assurer le bon fonctionnement du circuit. Si une baisse anormale est détectée, une alerte est générée pour prévenir d'une fuite potentielle.
+
+![capteur_bp_1.jpg](/images/matos/capteur/capteur_bp_1.jpg){.align-center}
 
 ##### Bon à savoir
 
@@ -32,7 +34,7 @@ Les capteurs doivent être calibrés régulièrement et doivent respecter les no
 
 ---
 
-#### Clé Dynamométrique
+## Clé Dynamométrique
 
 ##### Définition
 
@@ -50,7 +52,7 @@ Les valeurs de couple recommandées doivent être respectées scrupuleusement po
 
 ---
 
-#### Multimètre
+## Multimètre
 
 ##### Définition
 
@@ -68,7 +70,7 @@ Un multimètre utilisé en zone ATEX doit être certifié pour éviter tout risq
 
 ---
 
-#### Testeur de tension
+## Testeur de tension
 
 ##### Définition
 
@@ -86,7 +88,7 @@ Un testeur de tension doit toujours être testé sur une source connue avant et 
 
 ---
 
-#### Combinaison ATEX
+## Combinaison ATEX
 
 ##### Définition
 
@@ -104,7 +106,7 @@ Les vêtements de protection ATEX doivent respecter la norme **EN 1149** et êtr
 
 ---
 
-#### Chaussures ATEX
+## Chaussures ATEX
 
 ##### Définition
 
@@ -121,6 +123,4 @@ Dans un site de production d'hydrogène, les chaussures ATEX permettent d'évite
 Elles doivent être conformes à la norme **EN ISO 20345** et vérifiées régulièrement pour détecter toute usure susceptible d'altérer leur efficacité.
 
 ---
-
-Ce modèle peut être appliqué aux autres équipements listés. Souhaitez-vous que je complète l'intégralité des fiches avec cette structure ?
 
