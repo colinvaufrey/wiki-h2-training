@@ -2,7 +2,7 @@
 title: liste-objet
 description: 
 published: true
-date: 2025-01-30T01:18:57.301Z
+date: 2025-01-30T02:06:49.577Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-29T09:41:41.186Z
@@ -30,7 +30,7 @@ Dans une installation de distribution d'hydrogène, le capteur basse pression es
 ##### Bon à savoir
 
 Les capteurs doivent être calibrés régulièrement et doivent respecter les normes ATEX pour être utilisés en environnement à risque d'explosion.
-<<<<<<< HEAD
+
 
 ---
 
@@ -59,6 +59,7 @@ Les valeurs de couple recommandées doivent être respectées scrupuleusement po
 ##### Définition
 
 Un multimètre est un instrument de mesure permettant de vérifier la tension, l'intensité et la résistance électrique d'un circuit. Il est utilisé pour le diagnostic et la maintenance des installations électriques.
+
 
 {.align-center}
 
@@ -154,7 +155,7 @@ Elles doivent être conformes à la norme **EN ISO 20345** et vérifiées régul
 ##### Bon à savoir
 
 
-## Gants Isolants
+## EPI
 
 ##### Définition
 
@@ -167,4 +168,154 @@ Elles doivent être conformes à la norme **EN ISO 20345** et vérifiées régul
 
 ##### Bon à savoir
 
+## Casque de sécurité
+
+##### Définition
+
+
+
+{.align-center}
+
+##### Cas pratique
+
+
+##### Bon à savoir
+
+
+## Panneau de signalisation ATEX
+
+##### Définition
+
+
+
+{.align-center}
+
+##### Cas pratique
+
+
+##### Bon à savoir
+
+## Panneau de consignation Hydrogène
+
+##### Définition
+
+
+
+{.align-center}
+
+##### Cas pratique
+
+
+##### Bon à savoir
+
+
+## Panneau de consignation Electrique
+
+##### Définition
+
+
+
+{.align-center}
+
+##### Cas pratique
+
+
+##### Bon à savoir
+
+
+## Purge
+
+##### Définition
+
+
+
+{.align-center}
+
+##### Cas pratique
+
+
+##### Bon à savoir
+
+## Vanne de purge
+
+##### Définition
+
+
+
+{.align-center}
+
+##### Cas pratique
+
+
+##### Bon à savoir
+
+
+
+
+## Mise à la terre
+
+##### Définition
+
+
+
+{.align-center}
+
+##### Cas pratique
+
+
+##### Bon à savoir
+
+
+## Testeur de tension
+
+##### Définition
+
+
+
+{.align-center}
+
+##### Cas pratique
+
+
+##### Bon à savoir
+
+## Valise de diagnostique
+
+##### Définition
+
+
+
+{.align-center}
+
+##### Cas pratique
+
+
+##### Bon à savoir
+
+## Sniffer
+
+##### Définition
+
+
+
+{.align-center}
+
+##### Cas pratique
+
+
+##### Bon à savoir
+
+
+## Manometre
+
+##### Définition
+
+
+
+{.align-center}
+
+##### Cas pratique
+
+
+##### Bon à savoir
 
