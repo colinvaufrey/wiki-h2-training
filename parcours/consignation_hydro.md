@@ -2,15 +2,15 @@
 title: Consignation Hydrogène
 description: Préparation de la consignation hydrogène
 published: true
-date: 2025-01-23T09:32:37.667Z
+date: 2025-01-30T03:13:54.663Z
 tags: 
 editor: markdown
-dateCreated: 2025-01-22T10:08:13.636Z
+dateCreated: 2025-01-29T09:41:39.305Z
 ---
 
 Marquer clairement la zone de travail avec ce panneau de sécurité pour indiquer qu'une intervention est en cours.
 
-![Pancarte Consignation électrique](../images//image.png =x250){.align-center} 
+
 
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 1 : Pancarte "Consignation électrique"</div>
 
@@ -18,13 +18,13 @@ Marquer clairement la zone de travail avec ce panneau de sécurité pour indique
 
 En tant qu'opérateur, vous devez porter les équipements de protection individuelle appropriés.
 
-#### -Gants APEX
+#### -Gants ATEX
 
 Mettez des gants APEX pour une protection contre les risques chimiques et thermiques.
 
 ![Gant APEX](../images/consignation_hydro/image-1.png =x250){.align-center} 
 
-<div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 2 : Gants APE</div>
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Figure 2 : Gants ATEX</div>
 
 #### -Visière de sécurité
 
