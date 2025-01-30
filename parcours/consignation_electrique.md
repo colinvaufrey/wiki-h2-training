@@ -2,14 +2,14 @@
 title: consignation_electrique
 description: 
 published: true
-date: 2025-01-30T03:02:46.275Z
+date: 2025-01-30T03:09:40.179Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-29T16:25:32.638Z
 ---
 
 ---
-# Préparer la consignation électrique
+## Préparer la consignation électrique
 
 ### Poser le panneau de consignation électrique
 
