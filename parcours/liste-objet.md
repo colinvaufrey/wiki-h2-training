@@ -2,7 +2,7 @@
 title: liste-objet
 description: 
 published: true
-date: 2025-01-30T02:27:38.411Z
+date: 2025-01-30T02:51:53.928Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-29T09:41:41.186Z
@@ -45,10 +45,12 @@ Une clé dynamométrique est un outil permettant d'appliquer un couple de serrag
 Lors du serrage des brides sur un circuit de gaz sous pression, la clé dynamométrique permet d'assurer un serrage uniforme, réduisant ainsi le risque de fuite.
 
 ![dynamo1.jpg](/images/matos/dynamo/dynamo1.jpg){.align-center}
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Kit clé dynamométrique</div>
 
 ##### Bon à savoir
 
 ![tab_dynamo.jpg](/images/matos/dynamo/tab_dynamo.jpg){.align-center}
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Couple dynamométrique</div>
 
 Les valeurs de couple recommandées doivent être respectées scrupuleusement pour prévenir tout endommagement des composants.
 
@@ -60,8 +62,8 @@ Les valeurs de couple recommandées doivent être respectées scrupuleusement po
 
 Un multimètre est un instrument de mesure permettant de vérifier la tension, l'intensité et la résistance électrique d'un circuit. Il est utilisé pour le diagnostic et la maintenance des installations électriques.
 
-
-{.align-center}
+![multimetre.jpg](/images/matos/multimetre.jpg){.align-center}
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Multimètre</div>
 
 ##### Cas pratique
 
@@ -79,11 +81,15 @@ Un multimètre utilisé en zone ATEX doit être certifié pour éviter tout risq
 
 Un testeur de tension est un dispositif permettant de détecter la présence ou l'absence de tension dans un circuit électrique.
 
-{.align-center}
+![testeur.jpg](/images/matos/testeur.jpg){.align-center}
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Testeur de tension</div>
 
 ##### Cas pratique
 
 Avant toute consignation électrique, le testeur de tension permet de vérifier que l'installation est bien hors tension.
+
+![tension.jpg](/images/matos/tension.jpg){.align-center}
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Test VAT</div>
 
 ##### Bon à savoir
 
@@ -97,7 +103,8 @@ Un testeur de tension doit toujours être testé sur une source connue avant et 
 
 Une combinaison ATEX est un vêtement de protection spécialement conçu pour réduire les risques d'étincelles et limiter l'exposition aux substances dangereuses.
 
-{.align-center}
+![combi.jpg](/images/matos/combi.jpg){.align-center}
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Combinaison ATEX</div>
 
 ##### Cas pratique
 
@@ -116,6 +123,7 @@ Les vêtements de protection ATEX doivent respecter la norme **EN 1149** et êtr
 Les chaussures de sécurité ATEX sont conçues pour éviter l'accumulation de charges électrostatiques et résister aux environnements dangereux.
 
 {.align-center}
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Chaussure de protection ATEX</div>
 
 ##### Cas pratique
 
@@ -133,7 +141,9 @@ Elles doivent être conformes à la norme **EN ISO 20345** et vérifiées régul
 ##### Définition  
 Les gants isolants sont des équipements de protection individuelle (EPI) destinés à protéger les travailleurs contre les risques électriques. Ils sont fabriqués en caoutchouc isolant et doivent être certifiés selon les normes en vigueur.  
 
+
 {.align-center}  
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Gants Isolants</div>
 
 ##### Cas pratique  
 Un électricien portant des gants isolants pour travailler en toute sécurité sur un tableau électrique sous tension.  
@@ -149,6 +159,7 @@ Les gants isolants doivent être testés régulièrement pour vérifier leur int
 Les surgants sont des gants de protection portés par-dessus les gants isolants pour les protéger contre l’abrasion, les coupures ou les produits chimiques.  
 
 {.align-center}  
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Surgant</div>
 
 ##### Cas pratique  
 Un technicien portant des gants isolants avec des surgants en cuir lors de la manipulation de câbles haute tension.  
@@ -163,10 +174,15 @@ Les surgants prolongent la durée de vie des gants isolants et doivent être cho
 ##### Définition  
 Les Équipements de Protection Individuelle (EPI) sont des dispositifs ou moyens destinés à être portés ou tenus par une personne afin de la protéger contre un ou plusieurs risques professionnels.  
 
-{.align-center}  
+![EPI.jpg](/images/matos/EPI.jpg)
+{.align-center}
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Différents EPI</div>
 
 ##### Cas pratique  
 Un travailleur sur un chantier porte un casque, des lunettes de protection, des gants et des chaussures de sécurité.  
+
+![EPI_GLOBAL.jpeg](/images/matos/EPI_GLOBAL.jpeg){.align-center} 
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Travail hors tension</div>
 
 ##### Bon à savoir  
 Le choix des EPI dépend de l'évaluation des risques sur le lieu de travail. Ils doivent être conformes aux normes et réglementations en vigueur.  
@@ -178,7 +194,9 @@ Le choix des EPI dépend de l'évaluation des risques sur le lieu de travail. Il
 ##### Définition  
 Le casque de sécurité est un équipement conçu pour protéger la tête contre les chocs, les chutes d’objets et les risques électriques.  
 
+![casque.jpg](/images/matos/casque.jpg)
 {.align-center}  
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Casque avec visière</div>
 
 ##### Cas pratique  
 Un ouvrier du bâtiment portant un casque de sécurité pour éviter les blessures causées par des chutes de matériaux.  
@@ -193,7 +211,9 @@ Les casques de sécurité ont une durée de vie limitée et doivent être rempla
 ##### Définition  
 Un panneau de signalisation ATEX est un dispositif d'affichage informant du risque d’atmosphères explosives sur un site industriel.  
 
+![panneau_atex.gif](/images/matos/panneau_atex.gif)
 {.align-center}  
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Pictogramme ATEX</div>
 
 ##### Cas pratique  
 Un panneau ATEX placé à l'entrée d'une zone où des vapeurs inflammables sont présentes.  
@@ -208,7 +228,9 @@ Les panneaux ATEX doivent respecter les normes de signalisation pour être facil
 ##### Définition  
 Le panneau de consignation Hydrogène indique la présence d’hydrogène et avertit des dangers liés à son inflammabilité et à son explosivité.  
 
+![panneau_hydro.jpg](/images/matos/panneau_hydro.jpg)
 {.align-center}  
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Pictogramme Hydrogène</div>
 
 ##### Cas pratique  
 Un panneau de consignation placé dans une zone où des réservoirs d’hydrogène sont stockés.  
@@ -223,7 +245,9 @@ L’hydrogène étant incolore et inodore, une signalisation claire est essentie
 ##### Définition  
 Le panneau de consignation électrique signale une installation mise hors tension pour des opérations de maintenance ou de réparation.  
 
+![panneau_ectro.jpg](/images/matos/panneau_ectro.jpg)
 {.align-center}  
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Pictogramme électrique</div>
 
 ##### Cas pratique  
 Un technicien plaçant un panneau de consignation électrique sur un disjoncteur avant de commencer une intervention.  
@@ -238,10 +262,13 @@ L'affichage de ce panneau est une obligation légale pour garantir la sécurité
 ##### Définition  
 La purge consiste à évacuer un fluide (gaz ou liquide) d'un circuit ou d'un équipement afin d'éviter toute contamination ou risque d'explosion.  
 
-{.align-center}  
+![purge_kit.jpg](/images/matos/purge_kit.jpg){.align-center}
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Kit de purge</div>
 
 ##### Cas pratique  
 Un technicien purge un réservoir de gaz avant une opération de maintenance.  
+![purge.jpg](/images/matos/purge.jpg){.align-center}  
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Purger les freins</div>
 
 ##### Bon à savoir  
 Une purge incorrecte peut entraîner des accidents graves, notamment en cas de présence de gaz inflammables ou toxiques.  
@@ -253,7 +280,9 @@ Une purge incorrecte peut entraîner des accidents graves, notamment en cas de p
 ##### Définition  
 Une vanne de purge est un dispositif permettant d’évacuer un fluide d’un circuit ou d’un réservoir en toute sécurité.  
 
-{.align-center}  
+![vanne.jpg](/images/matos/vanne.jpg)
+{.align-center}
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Ouvre les valves de la purge</div>
 
 ##### Cas pratique  
 Un opérateur utilise une vanne de purge pour vider un tuyau de son contenu avant une réparation.  
@@ -268,7 +297,9 @@ Les vannes de purge doivent être régulièrement entretenues pour garantir leur
 ##### Définition  
 La mise à la terre est une mesure de sécurité permettant d’évacuer les courants de fuite vers le sol pour éviter les électrocutions.  
 
-{.align-center}  
+![terre.jpg](/images/matos/terre.jpg)
+{.align-center} 
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Mise à la terre</div>
 
 ##### Cas pratique  
 Un électricien vérifie la mise à la terre d’un bâtiment pour s’assurer de la conformité de l’installation électrique.  
@@ -276,20 +307,6 @@ Un électricien vérifie la mise à la terre d’un bâtiment pour s’assurer d
 ##### Bon à savoir  
 Une mise à la terre défectueuse peut entraîner des risques électriques importants et doit être régulièrement contrôlée.  
 
----
-
-## Testeur de tension  
-
-##### Définition  
-Un testeur de tension est un appareil permettant de vérifier la présence ou l’absence de tension électrique dans un circuit.  
-
-{.align-center}  
-
-##### Cas pratique  
-Un électricien utilise un testeur de tension avant de toucher un câble pour s’assurer qu’il est hors tension.  
-
-##### Bon à savoir  
-L'utilisation d'un testeur de tension est une étape essentielle avant toute intervention sur une installation électrique.  
 
 ---
 
@@ -298,7 +315,9 @@ L'utilisation d'un testeur de tension est une étape essentielle avant toute int
 ##### Définition  
 Une valise de diagnostic est un appareil permettant d’analyser et d’identifier des défauts sur des équipements électriques ou électroniques.  
 
+![valise.jpg](/images/matos/valise.jpg)
 {.align-center}  
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Kit valise de diagnostique</div>
 
 ##### Cas pratique  
 Un technicien utilise une valise de diagnostic pour détecter une panne sur un système de contrôle industriel.  
@@ -313,7 +332,9 @@ Les valises de diagnostic sont souvent spécifiques à certains équipements et 
 ##### Définition  
 Un sniffer est un détecteur de gaz permettant d’identifier la présence de gaz dangereux ou inflammables dans l’air ambiant.  
 
+![sniffer.png](/images/matos/sniffer.png)
 {.align-center}  
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Sniffer</div>
 
 ##### Cas pratique  
 Un opérateur utilise un sniffer pour détecter une fuite de gaz dans une installation industrielle.  
@@ -328,7 +349,8 @@ Les sniffers doivent être régulièrement calibrés pour garantir leur précisi
 ##### Définition  
 Un manomètre est un instrument de mesure permettant de vérifier la pression d’un fluide dans un circuit ou un réservoir.  
 
-{.align-center}  
+![manometre.jpg](/images/matos/manometre.jpg){.align-center}
+<div style="text-align: center; font-size: 0.8em; font-style: italic">Manometre</div>
 
 ##### Cas pratique  
 Un technicien contrôle la pression d’un système hydraulique à l’aide d’un manomètre.  
