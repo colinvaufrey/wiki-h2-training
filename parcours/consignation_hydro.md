@@ -2,17 +2,13 @@
 title: Consignation Hydrogène
 description: Guide détaillé pour la préparation et la réalisation de la consignation hydrogène en toute sécurité.
 published: true
-date: 2025-01-30T03:13:54.663Z
-tags: consignation hydro, sécurité hydrogène, EPI, purge, maintenance, risques ATEX
+date: 2025-01-30T04:32:43.897Z
+tags: epi, consignation hydro, sécurité hydrogène, purge, maintenance, risques atex
 editor: markdown
 dateCreated: 2025-01-29T09:41:39.305Z
-categories: 
-  - Sécurité
-  - Hydrogène
-  - Maintenance industrielle
-layout: documentation
 ---
 
+## Consigner
 
 Marquer clairement la zone de travail avec ce panneau de sécurité pour indiquer qu'une intervention est en cours.
 
