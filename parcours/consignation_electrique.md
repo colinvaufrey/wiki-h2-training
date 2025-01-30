@@ -2,18 +2,14 @@
 title: Consignation électrique
 description: Guide détaillé pour préparer et réaliser la consignation électrique en toute sécurité.
 published: true
-date: 2025-01-30T03:09:40.179Z
-tags: consignation, sécurité électrique, véhicule électrique, procédures, maintenance
+date: 2025-01-30T04:29:57.605Z
+tags: consignation, maintenance, sécurité électrique, véhicule électrique, procédures
 editor: markdown
 dateCreated: 2025-01-29T16:25:32.638Z
-categories: 
-  - Sécurité
-  - Électricité
-  - Maintenance industrielle
-layout: documentation
 ---
 
-
+## Consigner
+La consignation électrique est une procédure de sécurité visant à garantir qu'un circuit ou un équipement électrique est totalement hors tension avant toute intervention de maintenance ou de réparation.
 
 ### Poser le panneau de consignation électrique
 
