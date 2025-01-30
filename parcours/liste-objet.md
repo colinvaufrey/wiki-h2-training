@@ -1,8 +1,8 @@
 ---
-title: liste-objet
+title: Matériels et équipements
 description: 
 published: true
-date: 2025-01-30T03:38:20.745Z
+date: 2025-01-30T03:39:00.184Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-29T09:41:41.186Z
