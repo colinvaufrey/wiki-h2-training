@@ -2,7 +2,7 @@
 title: liste-objet
 description: 
 published: true
-date: 2025-01-30T02:51:53.928Z
+date: 2025-01-30T03:38:20.745Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-29T09:41:41.186Z
@@ -122,7 +122,7 @@ Les vêtements de protection ATEX doivent respecter la norme **EN 1149** et êtr
 
 Les chaussures de sécurité ATEX sont conçues pour éviter l'accumulation de charges électrostatiques et résister aux environnements dangereux.
 
-{.align-center}
+![chaussure.jpg](/images/matos/chaussure.jpg){.align-center}
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Chaussure de protection ATEX</div>
 
 ##### Cas pratique
@@ -141,8 +141,7 @@ Elles doivent être conformes à la norme **EN ISO 20345** et vérifiées régul
 ##### Définition  
 Les gants isolants sont des équipements de protection individuelle (EPI) destinés à protéger les travailleurs contre les risques électriques. Ils sont fabriqués en caoutchouc isolant et doivent être certifiés selon les normes en vigueur.  
 
-
-{.align-center}  
+![isolant.png](/images/outils/isolant.png){.align-center}  
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Gants Isolants</div>
 
 ##### Cas pratique  
@@ -158,6 +157,7 @@ Les gants isolants doivent être testés régulièrement pour vérifier leur int
 ##### Définition  
 Les surgants sont des gants de protection portés par-dessus les gants isolants pour les protéger contre l’abrasion, les coupures ou les produits chimiques.  
 
+![surgant.png](/images/outils/surgant.png)
 {.align-center}  
 <div style="text-align: center; font-size: 0.8em; font-style: italic">Surgant</div>
 
