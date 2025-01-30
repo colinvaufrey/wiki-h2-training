@@ -1,227 +1,124 @@
-<<<<<<< HEAD
-=======
 ---
 title: Plan du garage
 description: DESCRIPTION plan garage
 published: true
-date: 2025-01-30T00:24:36.673Z
+date: 2025-01-30T00:56:24.609Z
 tags: plan
 editor: markdown
 dateCreated: 2025-01-26T05:43:45.928Z
 ---
 
->>>>>>> a56a477ed5f2b2b65f55543a25f361725ecf0b01
 # PLAN
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <!-- Iframe container with better styling -->
-  <div class="sketchfab-embed-wrapper" style="width: 80%; max-width: 1200px; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <iframe
-      title="plan"
-      frameborder="0"
-      allowfullscreen
-      mozallowfullscreen="true"
-      webkitallowfullscreen="true"
-      allow="autoplay; fullscreen; xr-spatial-tracking"
-      xr-spatial-tracking
-      execution-while-out-of-viewport
-      execution-while-not-rendered
-      web-share
-      src="https://sketchfab.com/models/96804244a07c4b4fbe503817d0b56398/embed"
-      style="width: 100%; height: 600px;">
-    </iframe>
-  </div>
-  
-## 1 - Sous la voiture
-Lorsque le véhicule est surélevé, vous aurez accès à un plateau contenant 2 outils nécessaires aux opérations :
 
-### Capteur basse pression
-Les capteurs basse pression sont conçus pour mesurer avec précision la pression dans des environnements où les niveaux de pression sont relativement faibles. Ils sont utilisés dans des applications où les variations subtiles de pression sont importantes.
+## Modèle 3D interactif
 
-![Capteur basse pression](/images/outils/capteur_bp.png)
+[![Voir le modèle](https://sketchfab.com/models/96804244a07c4b4fbe503817d0b56398/embed)](https://sketchfab.com/models/96804244a07c4b4fbe503817d0b56398/embed)
 
-*À activer en l'attrapant sur une main.*
+## Matériels et Équipement
 
-### Clé dynamométrique
-Une clé qui permet de contrôler le couple de serrage des écrous, vis et boulons afin d'assurer un montage optimal et une répartition équitable du couple.
 
-![Clé dynamométrique](/images/outils/dynamo.png)
+### 1 - Sous la voiture
 
-*À activer en sélectionnant la taille (37 mm) et en l'attrapant sur une main.*
+- **Capteur basse pression**
+  - Mesure la pression dans des environnements à faible pression.
+  - ![Capteur basse pression](/images/outils/capteur_bp.png)
+  - *À activer en l'attrapant avec une main.*
 
----
+- **Clé dynamométrique**
+  - Contrôle le couple de serrage des écrous et boulons.
+  - ![Clé dynamométrique](/images/outils/dynamo.png)
+  - *À activer en sélectionnant la taille (37mn) et en l'attrapant avec une main.*
 
-## 2 - Portière conducteur
+### 2 - Portière conducteur
 
-### Bouton Start
-Tout action mettant ou coupant le contact / déplaçant le véhicule doit se faire via le bouton START à l’intérieur du véhicule.
+- **Bouton Start**
+  - Met ou coupe le contact et déplace le véhicule.
+  - ![Bouton Start](/images/outils/btn_start.png)
+  - *À activer en cliquant dessus et en sélectionnant l'option.*
 
-![Bouton Start](/images/outils/btn_start.png)
+### 3 - Poutre d'élévation
 
-*À activer en cliquant dessus et en sélectionnant votre option.*
+- **Bouton Monter/Descendre**
+  - Permet de lever ou descendre le véhicule.
+  - ![Bouton poutre](/images/outils/btn_poutre.png)
+  - *À activer en cliquant dessus.*
 
----
+### 4 - Plateau d'outils
 
-## 3 - Poutre d'élévation
+- **Tournevis**
+  - Utile pour les actions sous le capot.
+  - ![Tournevis](/images/outils/tournevis.png)
+  - *À activer en l'attrapant avec une main.*
 
-### Bouton monter/descendre
-Poutre permettant de monter et de descendre le véhicule.
+- **Multimètre**
+  - Teste la tension, le courant et la résistance des circuits.
+  - ![Multimètre](/images/outils/multimetre.png)
+  - *À activer en l'attrapant avec une main.*
 
-![Bouton monter/descendre](/images/outils/btn_poutre.png)
+- **Testeur de tension**
+  - Utilisé pour le test VAT et les mesures électriques.
+  - ![Testeur de tension](/images/outils/testeur_tension.png)
+  - *À activer en l'attrapant avec les deux mains.*
 
-*À activer en cliquant dessus.*
+### 5 - Étagère d'équipement
 
----
+- **Combinaison ATEX**
+  - Protège contre les risques en zones explosives.
+  - ![Combinaison](/images/outils/combi.png)
+  - *À activer en cliquant dessus.*
 
-## 4 - Plateau d'outils
+- **Chaussures ATEX**
+  - Protége contre les risques d'explosion.
+  - ![Chaussures ATEX](/images/outils/chaussure.png)
+  - *À activer en cliquant dessus.*
 
-### Tournevis
-Utile pour les actions dans le capot du véhicule.
+- **Gants isolants**
+  - Propriétés électrostatiques pour zones ATEX.
+  - ![Gants isolants](/images/outils/isolantVR.png)
+  - *À activer en cliquant dessus.*
 
-![Tournevis](/images/outils/tournevis.png)
+### 6 - Table
 
-*À activer en l'attrapant sur une main.*
+- **Panneau de signalétique**
+  - À poser devant le connecteur.
+  - ![Panneau de signalétique](/images/outils/signaletique.png)
+  - *À activer en cliquant dessus.*
 
-### Multimètre
-Appareil de mesure électrique permettant de tester la tension, le courant et la résistance des circuits automobiles.
+- **Panneau Véhicule condamné**
+  - Utilisé pour le test VAT.
+  - ![Panneau Véhicule condamné](/images/outils/condamnation.png)
+  - *À activer en cliquant dessus.*
 
-![Multimètre](/images/outils/multimetre.png)
+### 7 - Mini étagère
 
-*À activer en l'attrapant sur une main.*
+- **Chaîne de délimitation**
+  - Marque la zone ATEX.
+  - ![Chaîne de délimitation](/images/outils/chaine.png)
+  - *À activer en cliquant dessus.*
 
-### Testeur de tension
-Utilisé pour le test VAT, cet instrument de mesure est rapide, précis et sûr à utiliser.
+- **Panneau de signalisation ATEX**
+  - Marque la zone ATEX.
+  - ![Panneau ATEX](/images/outils/pancarte_atex.png)
+  - *À activer en cliquant dessus.*
 
-![Testeur de tension](/images/outils/testeur_tension.png)
+### 8 - Servante verte
 
-*À activer en l'attrapant avec les deux mains.*
+- **Valise de diagnostic**
+  - Identifie les défauts du véhicule.
+  - ![Valise de diagnostic](/images/outils/valise.png)
+  - *À activer en cliquant dessus.*
 
----
+### 9 - Servante rouge
 
-## 5 - Étagère d'équipement
+- **Testeur de tension**
+  - Instrument de mesure rapide et précis.
+  - ![Testeur de tension](/images/outils/testeur_tension.png)
+  - *À activer en l'attrapant avec les deux mains.*
 
-### Combinaison ATEX
-Protection nécessaire pour évoluer dans un environnement ATEX (ATmosphère EXplosive).
-
-![Combinaison ATEX](/images/outils/combi.png)
-
-*À activer en cliquant dessus.*
-
-### Chaussures ATEX
-Chaussures de sécurité conçues pour les zones ATEX.
-
-![Chaussures ATEX](/images/outils/chaussure.png)
-
-*À activer en cliquant dessus.*
-
-### Gants isolants
-Gants en matériau isolant pour travaux sous tension.
-
-![Gants isolants](/images/outils/isolantVR.png)
-
-*À activer en cliquant dessus.*
-
-### Surgants
-À enfiler au-dessus des gants isolants.
-
-![Surgants](/images/outils/surgantVR.png)
-
-*À activer en cliquant dessus.*
+- **Tournevis**
+  - Utile pour les actions sous le capot.
+  - ![Tournevis](/images/outils/tournevis.png)
+  - *À activer en l'attrapant avec une main.*
 
 ---
 
-## 6 - Table
-
-### Panneau de signalétique
-Poser le panneau devant le connecteur.
-
-![Panneau de signalétique](/images/outils/signaletique.png)
-
-*À activer en cliquant dessus.*
-
-### Panneau "Véhicule condamné"
-Utilisé pour indiquer que le véhicule est condamné.
-
-![Panneau Véhicule condamné](/images/outils/condamnation.png)
-
-*À activer en cliquant dessus.*
-
----
-
-## 7 - Mini étagère
-
-### Chaîne de délimitation
-Utilisez la chaîne pour marquer la zone ATEX.
-
-![Chaîne de délimitation](/images/outils/chaine.png)
-
-*À activer en cliquant dessus.*
-
-### Panneau de signalisation ATEX
-Utilisé pour marquer la zone ATEX.
-
-![Panneau de signalisation ATEX](/images/outils/pancarte_atex.png)
-
-*À activer en cliquant dessus.*
-
----
-
-## 8 - Servante verte
-
-### Valise de diagnostic
-Utilisée pour identifier les défauts du véhicule.
-
-![Valise de diagnostic](/images/outils/valise.png)
-
-*À activer en cliquant dessus.*
-
----
-
-## 9 - Servante rouge
-
-### Testeur de tension
-Utilisé pour le test VAT.
-
-![Testeur de tension](/images/outils/testeur_tension.png)
-
-*À activer en l'attrapant avec les deux mains.*
-
-### Tournevis
-Utile pour les actions dans le capot du véhicule.
-
-![Tournevis](/images/outils/tournevis.png)
-
-*À activer en l'attrapant sur une main.*
-
----
-
-## 10 - Servante bleue
-
-### Purge
-Élimination d’un fluide d’un circuit.
-
-![Purge](/images/outils/purge.png)
-
-*Mettre l'outil de purge à la terre. À activer en cliquant dessus.*
-
-### Vanne de purge
-
-![Vanne de purge](/images/outils/vanne.png)
-
-*À activer en cliquant dessus.*
-
-### Mise à la terre
-Connexion permettant de relier un boîtier métallique au système de conducteurs de protection.
-
-![Mise à la terre](/images/outils/mise_a_terre.png)
-
-*À activer en cliquant dessus.*
-
-### Sniffer
-Appareil détectant les gaz ou substances volatiles.
-
-![Sniffer](/images/outils/sniffer.png)
-
-*À activer en cliquant dessus.*
-
-</div>
-</div>
