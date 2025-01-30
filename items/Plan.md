@@ -2,7 +2,7 @@
 title: Plan du garage
 description: DESCRIPTION plan garage
 published: true
-date: 2025-01-30T00:21:12.953Z
+date: 2025-01-30T00:24:36.673Z
 tags: plan
 editor: markdown
 dateCreated: 2025-01-26T05:43:45.928Z
@@ -27,6 +27,7 @@ dateCreated: 2025-01-26T05:43:45.928Z
       style="width: 100%; height: 600px;">
     </iframe>
   </div>
+  
 ## 1 - Sous la voiture
 Lorsque le véhicule est surélevé, vous aurez accès à un plateau contenant 2 outils nécessaires aux opérations :
 
