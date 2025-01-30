@@ -1,12 +1,13 @@
 ---
-title: Matériels et équipements
-description: 
-published: true
-date: 2025-01-30T03:39:00.184Z
-tags: 
-editor: markdown
-dateCreated: 2025-01-29T09:41:41.186Z
+title: Matériels et équipements  
+description: Outils et équipements pour la consignation hydrogène et électrique en zone ATEX.  
+published: true  
+date: 2025-01-30T03:39:00.184Z  
+tags: ATEX, sécurité, hydrogène, électricité, EPI, outillage, consignation  
+editor: markdown  
+dateCreated: 2025-01-29T09:41:41.186Z  
 ---
+
 
 # Matériels et équipement
 
